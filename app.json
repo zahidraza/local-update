@@ -2,7 +2,7 @@
   "expo": {
     "name": "local-update",
     "slug": "local-update",
-    "version": "1.0.5",
+    "version": "1.0.7",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
@@ -12,7 +12,7 @@
     },
     "updates": {
       "fallbackToCacheTimeout": 0,
-      "url": "https://jaza-soft.github.io/expo-local-update/"
+      "url": "https://jaza-soft.github.io/expo-local-update"
     },
     "assetBundlePatterns": [
       "**/*"
