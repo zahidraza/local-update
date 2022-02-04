@@ -7,6 +7,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>Version {Application.nativeApplicationVersion}</Text>
+      <Text>Version 1.0.5</Text>
       <StatusBar style="auto" />
     </View>
   );
