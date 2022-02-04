@@ -31,7 +31,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>Version {Application.nativeApplicationVersion}</Text>
-      <Text>Version 1.0.11</Text>
+      <Text>Version 1.0.13</Text>
       <Text>Update Available = {isUpdateAvailable ? "Yes" : "No"}</Text>
       <Text>Error = {error}</Text>
       <StatusBar style="auto" />

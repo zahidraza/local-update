@@ -2,7 +2,7 @@
   "expo": {
     "name": "local-update",
     "slug": "local-update",
-    "version": "1.0.11",
+    "version": "1.0.13",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
@@ -11,7 +11,7 @@
       "backgroundColor": "#ffffff"
     },
     "updates": {
-      "fallbackToCacheTimeout": 60000,
+      "fallbackToCacheTimeout": 0,
       "url": "https://jaza-soft.github.io/expo-local-update"
     },
     "assetBundlePatterns": [
